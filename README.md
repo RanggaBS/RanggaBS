@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=95119001) -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=RanggaBS.visitor-badge) -->
 
-![RanggaBS's card name](https://cardivo.vercel.app/api?name=Rangga+Buana+Saputra&description=Hi%2C+I%27m+a+Web+Developer.+Nice+to+meet+you.+%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/95119001?v=4&backgroundColor=%23012b35&fontColor=%23effcff&pattern=topography&colorPattern=%23043743&linkedin=Rangga+Buana+Saputra&github=RanggaBS)
+![RanggaBS's card name](https://cardivo.vercel.app/api?name=Rangga+Buana+Saputra&description=Web%20Programmer%20and%20Lua%20Game%20Modder.%0ANice%20to%20meet%20you.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/95119001?v=4&backgroundColor=%23012b35&fontColor=%23effcff&pattern=topography&colorPattern=%23043743&linkedin=Rangga+Buana+Saputra&github=RanggaBS)
 
 <hr />
 
